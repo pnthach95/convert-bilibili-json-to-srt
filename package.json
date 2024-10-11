@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "@types/bun": "^1.1.11"
+  },
+  "prettier": {
+    "trailingComma": "all"
+  },
+  "dependencies": {
+    "dayjs": "^1.11.13"
+  }
+}
